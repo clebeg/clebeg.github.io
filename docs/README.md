@@ -1,10 +1,10 @@
 ---
 home: true
-heroImage: /hero.png
-heroText: clebeg
+heroImage: /flink.jpeg
+heroText: 深入理解Flink
 tagline: clebeg
 actionText: 快速上手 →
-actionLink: /zh/guide/
+actionLink: /guide/
 features:
 - title: 简洁至上
   details: test
@@ -12,5 +12,5 @@ features:
   details: test
 - title: test
   details: test
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: MIT Licensed | Copyright © 2020-present Evan You
 ---
